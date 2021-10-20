@@ -1,2 +1,1 @@
-# nkosi-cv
-my cv
+# studio88-20-oct
